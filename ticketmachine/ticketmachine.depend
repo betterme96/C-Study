@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557747221 source:d:\myprojects\c++projects\ticketmachine\src\main.cpp
+	"TicketMachine.h"
+
+1557746835 d:\myprojects\c++projects\ticketmachine\include\ticketmachine.h
+
+1557747221 source:d:\myprojects\c++projects\ticketmachine\src\ticketmachine.cpp
+	"TicketMachine.h"
+	<iostream>
+

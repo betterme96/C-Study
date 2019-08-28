@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566909023 source:d:\myprojects\c++projects\studydemo\randnum\main.cpp
+	<iostream>
+	<ctime>
+

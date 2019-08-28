@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566979332 source:d:\myprojects\c++projects\studydemo\sortalg\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<chrono>
+

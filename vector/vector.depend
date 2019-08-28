@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555233896 source:d:\myprojects\c++projects\vector\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+

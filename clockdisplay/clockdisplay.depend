@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1557798142 source:d:\myprojects\c++projects\clockdisplay\src\main.cpp
+
+1557797651 source:d:\myprojects\c++projects\clockdisplay\src\numberdisplay.cpp
+	"NumberDisplay.h"
+
+1557798161 d:\myprojects\c++projects\clockdisplay\include\numberdisplay.h
+
+1557797630 source:d:\myprojects\c++projects\clockdisplay\src\clockdisplay.cpp
+	"ClockDisplay.h"
+
+1557800507 d:\myprojects\c++projects\clockdisplay\include\clockdisplay.h
+	"NumberDisplay.h"
+
